@@ -1,0 +1,1 @@
+docker run -d --name=prometheus -p 9090:9090 -v C:\Users\DESKTOP\Desktop\project\sample\prometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
